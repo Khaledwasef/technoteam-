@@ -623,6 +623,10 @@ footer .content-footer .end {
         height: 400px;
     }
 
+    .plasetine .container-text {
+        padding-top: 0;
+    }
+
     .contact {
         width: 100%;
         display: block;
