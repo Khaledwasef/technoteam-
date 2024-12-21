@@ -280,7 +280,12 @@ h5 {
     flex-direction: row;
     flex-wrap: wrap;
 }
-
+.doc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--bgColor-2);
+}
 .card {
     background-color: var(--bgColor-2);
     width: 300px;
