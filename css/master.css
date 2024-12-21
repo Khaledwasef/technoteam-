@@ -374,7 +374,7 @@ h5 {
 
 .card-member-body .bg {
     position: absolute;
-    background: #fff;
+    background: var(--bgColor-1);
     border-radius: 100px;
     width: 0%;
     transition: .5s;
